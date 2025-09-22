@@ -32,5 +32,5 @@ The Pizza Hut SQL Project is designed to analyze sales, customer orders, and men
 
 > Generated sales dashboards (via SQL views/queries) for business decision-making.
 
-Strengthened SQL skills in query optimization and real-world data analysis.
+> Strengthened SQL skills in query optimization and real-world data analysis.
 
